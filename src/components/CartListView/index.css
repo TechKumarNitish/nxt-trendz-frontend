@@ -1,0 +1,20 @@
+.cart-list {
+  padding-left: 0px;
+}
+.remove-all-button {
+  font-size: 18px;
+  color: #0b69ff;
+  font-family: Roboto;
+  font-weight: 500;
+  background-color: inherit;
+  border: none;
+  outline: none;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 767px) {
+  .remove-all-button {
+    font-size: 15px;
+  }
+}
